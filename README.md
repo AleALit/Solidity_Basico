@@ -12,3 +12,4 @@ es un cambio desde el *GitHub*, **en su version web**
 * se puede hacer desde el IDE de Remix
 * se puede hacer en local desde una terminal
 * Se puede hacer desde Visual Studio Code
+* Cambio para visualizar la sincronización con **Remix**
