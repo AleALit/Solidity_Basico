@@ -4,7 +4,7 @@ pragma solidity 0.8.24;
 contract hola_mundo_dinamico {
 
     string saludo_d = "hola mundo dinamico";
-    string public  saludo_e = "Saludo inicial en el despliegue";
+    string public saludo_e = "Saludo inicial en el despliegue";
 
     function leerSaludo() public view returns (string memory ) {
         return saludo_d;
